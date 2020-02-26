@@ -1,1 +1,2 @@
 //Salut les copains, ceci est un test
+std::cout << "je comprend rien";
